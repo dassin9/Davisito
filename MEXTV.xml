@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="MEX - Las Estrellas">
+<display-name lang="es">MEX - Las Estrellas</display-name>
+<icon src="pruebaw_l" />
+<url>https://www.gatotv.com/canal/de_las_estrellas_mexico</url>
+</channel>
+<channel id="MEX - Canal 5">
+<display-name lang="es">MX - Canal 5</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_l.png" />
+<url>http://www.mi.tv</url>
+</channel>
