@@ -2,7 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 <channel id="MEX - Las Estrellas">
 <display-name lang="es">MEX - Las Estrellas</display-name>
-<icon src="pruebaw_l" />
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
 <url>https://www.gatotv.com/canal/de_las_estrellas_mexico</url>
 </channel>
 <channel id="MEX - Canal 5">
