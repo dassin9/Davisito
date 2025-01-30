@@ -10,3 +10,7 @@
 <icon src="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_l.png" />
 <url>http://www.mi.tv</url>
 </channel>
+  <channel id="MEX - Distrito Comedia">
+    <display-name lang="es">MX - Distrito Comedia</display-name>
+    
+<url>https://www.gatotv.com/canal/distrito_comedia</url>
